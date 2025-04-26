@@ -15,5 +15,6 @@ public class App
         System.out.println("在线添加001");
         System.out.println("在线添加002");
         System.out.println("克隆的项目001");
+        System.out.println("测试 SSH 001");
     }
 }
